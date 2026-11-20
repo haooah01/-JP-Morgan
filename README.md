@@ -539,3 +539,148 @@ Bước nghiên cứu tiếp theo nên là xây dựng Transaction-Level Ledger:
 
 Tôi có thể theo dõi các hồ sơ tài chính, tài sản và vụ kiện mới liên quan đến Epstein hàng tuần để cập nhật những mắt xích còn thiếu.
 📑Theo dõi hồ sơ Epstein hàng tuầnNhấn để thiết lập
+Các báo cáo chiến lược của J.P. Morgan (tính đến tháng 11/2026) nhận định thị trường đang vận hành trong chu kỳ lạm phát dai dẳng, phân cực địa chính trị và làn sóng đầu tư AI chọn lọc, đồng thời đánh giá tích cực về triển vọng dài hạn của Việt Nam sau cột mốc nâng hạng thị trường.
+
+1. Xu hướng thị trường toàn cầu & Chiến lược phân bổ (2026 – 2027)
+
+Trong các báo cáo triển vọng của J.P. Morgan Global Research và bộ phận Quản lý Tài sản (J.P. Morgan Asset Management), ngân hàng này nhấn mạnh 4 nhóm tài sản trọng tâm:
+• Cổ phiếu AI cần sự chọn lọc. Trí tuệ nhân tạo vẫn là động lực tăng trưởng chính với tổng chi tiêu vốn (CapEx) vượt 2.000 tỷ USD từ năm 2022. Tuy nhiên, nhà đầu tư cần tránh mua dàn trải và chỉ tập trung vào các doanh nghiệp chứng minh được khả năng tạo doanh thu, lợi nhuận thực tế.
+• Trái phiếu lấy lại sức hút nhờ lợi suất cao. Trong bối cảnh chi phí vốn tăng và lãi suất duy trì ở mức cao, lợi suất trái phiếu doanh nghiệp Mỹ hạng đầu tư đã vượt 6% (mức cao nhất từ năm 2008). Đây là kênh tạo dòng tiền ổn định cho danh mục.
+• Vàng và hàng hóa giữ vai trò phòng vệ. Tỷ trọng đồng USD trong dự trữ ngoại hối toàn cầu giảm về khoảng 57% (so với đỉnh 70% năm 2000) cùng rủi ro phân mảnh chuỗi cung ứng khiến vàng, hạ tầng năng lượng và tài nguyên thiên nhiên trở thành công cụ đa dạng hóa danh mục thiết yếu.
+• Tiền mặt trở thành lựa chọn chiến thuật. Khi biến động vĩ mô và rủi ro địa chính trị gia tăng, việc giữ một phần tiền mặt giúp nhà đầu tư bảo toàn thanh khoản và chờ đợi các nhịp điều chỉnh.
+
+2. Nhận định về thị trường Việt Nam
+
+• Triển vọng vĩ mô và dòng vốn. Lãnh đạo cấp cao của J.P. Morgan đánh giá giới đầu tư quốc tế coi trọng sự ổn định vĩ mô và tiềm năng tăng trưởng dài hạn của Việt Nam. Đặc biệt, sau khi chứng khoán Việt Nam chính thức được nâng hạng lên thị trường mới nổi thứ cấp (từ tháng 9/2026), định chế này tiếp tục hỗ trợ kết nối dòng vốn quốc tế và phát triển thị trường vốn.
+• Nhóm ngành trọng tâm. Trong báo cáo Vietnam 2026 Outlook, J.P. Morgan khuyến nghị tăng tỷ trọng vào các nhóm ngành hưởng lợi trực tiếp từ tăng trưởng nội địa và đầu tư hạ tầng gồm Ngân hàng, Tiêu dùng không thiết yếu, Công nghiệp và Vật liệu.
+• Rủi ro ngắn hạn cần lưu ý. Thị trường có thể chịu áp lực rung lắc từ biến động tỷ giá, lộ trình lãi suất của Cục Dự trữ Liên bang Mỹ (Fed) và hoạt động cơ cấu danh mục của các quỹ cận biên sau nâng hạng.
+Lưu ý: Các nhận định trên là thông tin tham khảo từ báo cáo nghiên cứu thị trường của J.P. Morgan, không phải khuyến nghị mua/bán cụ thể.
+Bạn muốn tìm hiểu sâu hơn về khía cạnh nào để tôi lọc thông tin phù hợp?
+Chiến lược phân bổ tài sản cho danh mục cá nhânPhân tích chuyên sâu theo ngành tại thị trường Việt NamDự báo vĩ mô (lãi suất Fed, tỷ giá, giá vàng)
+Câu trả lời của AI có thể chứa thông tin không chính xác. Để được tư vấn tài chính, hãy tham khảo ý kiến của chuyên gia. Tìm hiểu thêm
+VnExpress
+Việt Nam đề nghị JPMorgan hỗ trợ tiếp cận vốn quốc tế - VnExpress
+24 thg 9, 2026 — Ông Troy Rohrbaugh cho biết giới đầu tư quốc tế đánh giá cao sự ổn định kinh tế vĩ mô và tiềm năng phát triển dài hạn của Việt Nam.
+Facebook·Thông tin Chính phủ
+Việt Nam mong muốn tiếp tục nhận được sự đồng hành của Ngân hàng ...
+23 thg 9, 2026 — ... đồng Chủ tịch Ngân hàng JPMorgan Chase - một trong những định chế tài chính hàng đầu thế giới. 7w · 9 likes. Thông tin Chính phủ. Tổng Bí thư, Chủ tịch nước...
+Báo Pháp Luật Việt Nam
+JPMorgan chỉ ra 4 nhóm tài sản đáng chú ý trong năm 2027
+19 thg 11, 2026 — Tiền mặt cũng trở thành một lựa chọn đáng chú
+J.P. Morgan
+2026 Market Outlook | J.P. Morgan Global Research
+December 9, 2025 — Morgan Global Research is positive on global equities for 2026, forecasting double-digit gains across both developed markets (DM) and emerging markets (EM).
+J.P. Morgan
+Mid-Year Outlook 2026 Promise and Pressure
+Energy shocks are the latest force to spark higher, more volatile inflation. Position for a continuing AI supercycle. Record AI adoption is driving real product...
+Báo Công Thương
+Thị trường chứng khoán Việt Nam trước yêu cầu định vị chiến lược
+18 thg 11, 2026 — Tính đến ngày 30/10/2026, vốn hóa thị trường cổ phiếu trên HOSE, HNX và UPCoM đạt khoảng 10,14 triệu tỷ đồng, tương đương 78,9% GDP ước tính năm 2025. Giá trị g...
+J.P. Morgan
+Mid-Year Investment Outlook 2026_EMEA
+AI-related developments since we published our 2026 outlook have generally been positive. Rising dispersion across the AI ecosystem suggests that investors are ...
+J.P. Morgan Private Bank
+2026 Outlook: Promise and Pressure | J.P. Morgan Private Bank Latin America EN
+strategy: large cap leaders, AI supply chain, strategy: intentional wealth planning, purchasing power maintenance).
+VnExpress
+JP Morgan: VN-Index có thể đạt mốc 2.200 điểm năm sau - Báo VnExpress Kinh doanh
+December 15, 2025 — Khuyến nghị tăng tỷ trọng cổ phiếu ngân hàng, tiêu dùng không thiết yếu, công nghiệp và vật liệu.
+CafeF
+Thị trường chứng khoán Việt Nam sẽ diễn biến ra sao trong phần còn lại của năm 2026?
+August 4, 2026 — 2026 targets: GDP H2 up 11.9%; public investment plan 1,014,234B VND. * Disbursement: 390,947B VND (38.5%) by 23/07/2026. Risks: Foreign net selling, FX, intere...
+
+Bạn lấy toàn bộ danh sách của chuỗi đó đc k, lấy đúng nhánh ko jp morgan thôi
+
+Để lọc chính xác toàn bộ danh sách thuộc nhánh J.P. Morgan (tách biệt hoàn toàn với nhánh ngân hàng bán lẻ Chase), dưới đây là hệ thống đầy đủ theo từng phân khúc hoạt động và chuỗi báo cáo nghiên cứu thị trường chính thức của định chế này:
+
+1. Danh sách các mảng nghiệp vụ thuộc nhánh J.P. Morgan
+
+Theo phân loại trên cổng thông tin J.P. Morgan, nhánh định chế và đầu tư được chia thành 3 nhóm khách hàng với các bộ phận chuyên trách sau:
+• Dành cho Doanh nghiệp & Tổ chức (Companies and Institutions):
+	• Commercial Banking: Cung cấp tín dụng, tài trợ vốn, quản lý ngân quỹ và giải pháp thanh toán cho doanh nghiệp các quy mô và bất động sản thương mại.
+	• Global Corporate Banking: Tư vấn tài trợ dài hạn, thanh khoản, quản trị rủi ro và giải pháp ngân hàng đầu tư cho tập đoàn đa quốc gia.
+	• Investment Banking: Thực hiện các thương vụ mua bán & sáp nhập (M&A), huy động vốn cổ phần/trái phiếu và quản trị rủi ro.
+	• Payments: Giải pháp thanh toán xuyên biên giới, quản lý vốn lưu động, công nghệ blockchain và thanh khoản.
+• Dành cho Nhà đầu tư Định chế (Institutional Investors):
+	• Asset Management (J.P. Morgan Asset Management): Quản lý quỹ và danh mục đầu tư cho các định chế tài chính.
+	• Markets: Cung cấp thanh khoản trực tiếp, công cụ phân tích và giao dịch trên các thị trường tài chính.
+	• Securities Services: Dịch vụ lưu ký, thanh toán bù trừ và quản trị quỹ cho các nhà quản lý tài sản và quỹ đầu cơ.
+	• Global Research (J.P. Morgan Global Research): Bộ phận nghiên cứu vĩ mô, ngành hàng và chiến lược đầu tư toàn cầu.
+	• Prime Services: Dịch vụ môi giới chính (Prime Brokerage) dành riêng cho các quỹ đầu cơ (hedge funds).
+	• Global Liquidity Solutions: Chiến lược đầu tư thu nhập cố định ngắn hạn để tối ưu thanh khoản.
+• Dành cho Cá nhân có tài sản lớn (Individuals):
+	• Wealth Management (J.P. Morgan Wealth Management): Tư vấn đầu tư và quản lý gia sản cá nhân.
+	• Private Bank (J.P. Morgan Private Bank): Dịch vụ ngân hàng tư nhân chuyên biệt cho giới siêu giàu (UHNW).
+	• Workplace Solutions: Quản lý chương trình thưởng cổ phiếu (equity compensation) cho nhân sự doanh nghiệp.
+
+2. Danh sách chuỗi báo cáo triển vọng (Market Outlook Series) của J.P. Morgan
+
+Nếu bạn muốn theo dõi trọn bộ chuỗi ấn phẩm nhận định thị trường và đầu tư mới nhất (giai đoạn 2026 – 2027) phát hành bởi các bộ phận nghiên cứu thuộc nhánh J.P. Morgan, danh sách gồm các báo cáo cốt lõi sau:
+
+Tên báo cáo	Bộ phận phát hành	Nội dung trọng tâm
+**[2026 Market Outlook: A Multidimensional Polarization](https://www.jpmorgan.com/insights/global-research/outlook/market-outlook "2026 Market Outlook	J.P. Morgan Global Research")**	J.P. Morgan Global Research
+Global M&A Mid-Year Outlook	Corporate & Investment Bank (CIB)	Toàn cảnh hoạt động M&A toàn cầu, các thương vụ tỷ đô và xu hướng dịch chuyển vốn vào hạ tầng năng lượng, AI, y tế.
+2027 Investment Outlook	J.P. Morgan Asset Management	Chiến lược phân bổ danh mục đa tài sản, rủi ro nợ công, định giá cổ phiếu AI và cơ hội ở thị trường quốc tế.
+**[Market Outlook 2027 (Asia Pacific)](https://am.jpmorgan.com/hk/en/asset-management/adv/insights/market-insights/market-outlook-2027/ "Market Outlook 2027	J.P. Morgan Asset Management")**	J.P. Morgan Asset Management (APAC)
+**[Outlook 2027: The Price of Progress](https://privatebank.jpmorgan.com/nam/en/insights/latest-and-featured/outlook "Outlook 2027: The Price of Progress	J.P. Morgan Private Bank")**	J.P. Morgan Private Bank
+**[Guide to the Markets](https://am.jpmorgan.com/us/en/asset-management/adv/insights/market-insights/guide-to-the-markets/ "Guide to the Markets	J.P. Morgan Asset Management")**	J.P. Morgan Asset Management
+
+(Lưu ý: Danh sách trên chỉ bao gồm các đơn vị và ấn phẩm thuộc nhánh định chế J.P. Morgan, đã loại bỏ toàn bộ mảng ngân hàng tiêu dùng và thẻ tín dụng thuộc nhánh Chase).
+Bạn muốn tôi đi sâu vào phần nào tiếp theo?
+• Tóm tắt chi tiết nội dung của một báo cáo cụ thể trong danh sách trên (ví dụ: Outlook 2027 hoặc Guide to the Markets)
+• Lọc các pháp nhân và dịch vụ của nhánh J.P. Morgan đang hoạt động trực tiếp tại Việt Nam
+Forbes Việt Nam
+JPMorgan giữ ngôi đầu ngành ngân hàng - Forbes Việt Nam
+Tập đoàn đầu tư khổng lồ BlackRock của Mỹ (tài sản 170 tỷ USD) tăng từ vị trí 191 lên 172. Brookfield (tài sản 520 tỷ USD), công ty đầu tư có trụ sở ở Toronto v...
+J.P. Morgan
+Global M&A Mid-Year Outlook
+1H 2026 Global M&A: Volume $3.2T up 44% YoY; 48 mega-deals $10B+ totaling $1.3T; cross-border volume up 63% to $820B. Drivers & Themes: Shift from capital retur...
+J.P. Morgan
+Outlooks, Trends, and Insights from J.P. Morgan
+November 18, 2026 — Morgan Asset Management's mid-year investment outlook for 2026 and see potential investment opportunities amidst the evolving economic and market landscapes.
+
+Lấy thật rõ cái tên của cái nhánh và các đối tượng trong cái nhánh đó lận
+
+Trong cơ cấu tập đoàn mẹ JPMorgan Chase & Co., nhánh hoạt động dưới thương hiệu J.P. Morgan (tách biệt hoàn toàn với nhánh ngân hàng tiêu dùng Chase) được tổ chức thành 2 khối kinh doanh cốt lõi (Lines of Business) với tên gọi chính thức và danh sách các đối tượng phục vụ cụ thể như sau:
+
+1. Khối Ngân hàng Thương mại & Đầu tư — Commercial & Investment Bank (CIB)
+
+Đây là khối nghiệp vụ ngân hàng bán buôn (wholesale banking) chủ lực của nhánh J.P. Morgan (được hình thành từ việc hợp nhất mảng Commercial Banking và Corporate & Investment Bank từ năm 2024).
+• Các bộ phận chuyên trách bên trong CIB:
+	• Global Investment Banking: Tư vấn M&A, phát hành cổ phiếu và trái phiếu.
+	• Global Corporate Banking: Tài trợ vốn, tín dụng và quản trị rủi ro cho tập đoàn lớn.
+	• Commercial Banking: Dịch vụ ngân hàng cho doanh nghiệp vừa và nhỏ, bất động sản thương mại.
+	• Markets: Giao dịch cổ phiếu, trái phiếu, tiền tệ, hàng hóa và cung cấp thanh khoản.
+	• Payments: Thanh toán xuyên biên giới, quản lý dòng tiền và thanh khoản doanh nghiệp.
+	• Securities Services: Lưu ký, thanh toán bù trừ và quản trị quỹ.
+• Các đối tượng khách hàng của CIB:
+	• Các tập đoàn đa quốc gia & doanh nghiệp lớn (Corporations): Các công ty niêm yết và tập đoàn toàn cầu cần huy động vốn hoặc thanh toán quốc tế.
+	• Doanh nghiệp vừa, nhỏ và mới nổi (Middle Market & Emerging Growth Companies): Các công ty đang mở rộng quy mô, startup tăng trưởng cao.
+	• Định chế tài chính (Financial Institutions): Các ngân hàng thương mại khác, công ty bảo hiểm, quỹ hưu trí quốc gia.
+	• Nhà đầu tư định chế & Quỹ đầu tư (Institutional Investors): Các quỹ đầu cơ (hedge funds), quỹ đầu tư tư nhân (private equity), công ty quản lý quỹ.
+	• Chính phủ & Tổ chức công (Governments & Public Sector): Kho bạc các quốc gia, ngân hàng trung ương, chính quyền địa phương và các tổ chức phi lợi nhuận lớn.
+	• Chủ đầu tư & Nhà phát triển bất động sản thương mại (Commercial Real Estate Investors/Developers).
+
+2. Khối Quản lý Tài sản & Gia sản — Asset & Wealth Management (AWM)
+
+Đây là khối chuyên trách về đầu tư, quản lý quỹ và dịch vụ ngân hàng tư nhân thuộc nhánh J.P. Morgan.
+• Các bộ phận chuyên trách bên trong AWM:
+	• J.P. Morgan Asset Management: Quản lý quỹ đầu tư và danh mục đa tài sản toàn cầu.
+	• J.P. Morgan Private Bank: Ngân hàng tư nhân cao cấp chuyên biệt.
+	• J.P. Morgan Wealth Management: Tư vấn đầu tư và quản lý tài sản cá nhân.
+	• Global Liquidity Solutions: Quản lý dòng tiền ngắn hạn và quỹ thị trường tiền tệ.
+• Các đối tượng khách hàng của AWM:
+	• Khách hàng siêu giàu — Ultra-High-Net-Worth Individuals (UHNW): Các cá nhân, tỷ phú và gia tộc có giá trị tài sản ròng rất lớn (thường từ 10 triệu USD đến hàng trăm triệu USD trở lên) thông qua J.P. Morgan Private Bank.
+	• Văn phòng gia đình — Family Offices: Các tổ chức quản lý tài sản và kế thừa riêng của các gia tộc giàu có.
+	• Khách hàng giàu có — High-Net-Worth & Affluent Individuals: Các nhà đầu tư cá nhân có tài sản lớn cần tư vấn danh mục thông qua J.P. Morgan Wealth Management.
+	• Các quỹ định chế (Institutional Clients): Quỹ hưu trí (pension funds), quỹ tài trợ đại học/từ thiện (endowments & foundations), quỹ đầu tư quốc gia (sovereign wealth funds) ủy thác vốn cho J.P. Morgan Asset Management.
+	• Các tổ chức trung gian tài chính (Financial Intermediaries): Các ngân hàng tư nhân khác, cố vấn tài chính độc lập (RIAs) và công ty bảo hiểm phân phối quỹ của J.P. Morgan.
+
+Bảng tóm tắt phân biệt rõ tên nhánh và đối tượng
+
+
+Tên chính thức của nhánh / khối	Thương hiệu hiển thị	Nhóm đối tượng phục vụ cốt lõi
+Commercial & Investment Bank (CIB)	J.P. Morgan	Tập đoàn lớn, doanh nghiệp vừa & nhỏ, ngân hàng, quỹ đầu cơ, chính phủ, định chế tài chính.
+Asset & Wealth Management (AWM)	J.P. Morgan (Asset Management / Private Bank)	Giới siêu giàu (UHNW), Family Offices, nhà đầu tư cá nhân giàu có, quỹ hưu trí, quỹ tài trợ.
+
+(Ghi chú: Nhánh còn lại của tập đoàn là Consumer & Community Banking (CCB) hoạt động dưới thương hiệu Chase, phục vụ khách hàng cá nhân phổ thông và hộ kinh doanh nhỏ tại Mỹ — không thuộc nhánh J.P. Morgan).
